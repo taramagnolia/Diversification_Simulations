@@ -1,1 +1,3 @@
-# Diversification_Simulations
+# Diversification Simulations
+Scripts used for Smiley: DETECTING DIVERSIFICATION RATES IN RELATION TO PRESERVATION AND TECTONIC HISTORY FROM SIMULATED FOSSIL RECORDS
+updated July 2017
